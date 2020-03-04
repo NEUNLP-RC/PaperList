@@ -2,7 +2,7 @@
 This is a relation extraction reading list maintained by the NEU Natural Language Processing  Learning Group. We will keep adding papers and improving the list. Any suggestions are welcome!
 
 
- * [Relation Extraction](#relation extraction)
+ * [Relation Extraction](#RelationExtraction)
     * [Supervised (semeval)](#supervised)
     * [Datasets](#dataset)
 
