@@ -4,6 +4,7 @@ This is a relation extraction reading list maintained by the NEU Natural Languag
 
  * [Relation Extraction](#RelationExtraction)
     * [Supervised (semeval)](#supervised)
+    * [Few-Shot Learning]((#fewshot))
     * [Datasets](#dataset)
 
 ## Relation extraction
