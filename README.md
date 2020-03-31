@@ -15,7 +15,7 @@ This is a relation extraction reading list maintained by the NEU Natural Languag
 
 ### Few-Shot Learning
 * Livio Baldini Soares, Nicholas FitzGerald, Jeffrey Ling and Tom Kwiatkowski. 2019. [Matching the Blanks: Distributional Similarity for Relation Learning](https://arxiv.org/abs/1906.03158). In *ACL2019*. 
-* Tianyu Gao, Xu Han, Zhiyuan Liu, Maosong Sun. 2019. [Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification](https://doi.org/10.1609/aaai.v33i01.33016407). In Proceedings of *AAAI2019*.
+* Tianyu Gao, Xu Han, Zhiyuan Liu, Maosong Sun. 2019. [Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification](https://www.aaai.org/ojs/index.php/AAAI/article/view/4604). In Proceedings of *AAAI2019*.
 * Zhi-Xiu Ye and Zhen-Hua Ling. 2019. [Multi-level matching and aggregation network for few-shot relation classification](https://arxiv.org/abs/1906.06678). In Proceedings of *ACL2019*.
 
 ### Datasets
