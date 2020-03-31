@@ -11,10 +11,12 @@ This is a relation extraction reading list maintained by the NEU Natural Languag
 
 ### Supervised
 * Shanchan Wu, Yifan He. 2019. [Enriching Pre-trained Language Model with Entity Information for Relation Classification](https://arxiv.org/abs/1905.08284). In *arXiv preprint arXiv:1905.08284*. [[code](https://github.com/NEUNLP-RE/Erich_Relation_Classification)]
-* Livio Baldini Soares, Nicholas FitzGerald, Jeffrey Ling and Tom Kwiatkowski. 2019. [Matching the Blanks: Distributional Similarity for Relation Learning](https://arxiv.org/abs/1906.03158). In *ACL2019*. 
+* Livio Baldini Soares, Nicholas FitzGerald, Jeffrey Ling and Tom Kwiatkowski. 2019. [Matching the Blanks: Distributional Similarity for Relation Learning](https://arxiv.org/abs/1906.03158). In *ACL2019*.
 
 ### Few-Shot Learning
 * Livio Baldini Soares, Nicholas FitzGerald, Jeffrey Ling and Tom Kwiatkowski. 2019. [Matching the Blanks: Distributional Similarity for Relation Learning](https://arxiv.org/abs/1906.03158). In *ACL2019*. 
+* Tianyu Gao, Xu Han, Zhiyuan Liu, Maosong Sun. 2019. [Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification](https://doi.org/10.1609/aaai.v33i01.33016407). In Proceedings of *AAAI2019*.
+* Zhi-Xiu Ye and Zhen-Hua Ling. 2019. [Multi-level matching and aggregation network for few-shot relation classification](https://arxiv.org/abs/1906.06678). In Proceedings of *ACL2019*.
 
 ### Datasets
 
